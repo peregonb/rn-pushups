@@ -1,0 +1,172 @@
+[
+  {
+    "week1": {
+      "range": {
+        "min": 0,
+        "max": 13
+      },
+      "easyMode": {
+        "rangeMin": 0,
+        "rangeMax": 6,
+        "day1": {
+          "approach1": 3,
+          "approach2": 3,
+          "approach3": 2,
+          "approach4": 2,
+          "approach5": 3
+        },
+        "day2": {
+          "approach1": 4,
+          "approach2": 4,
+          "approach3": 3,
+          "approach4": 3,
+          "approach5": 4
+        },
+        "day3": {
+          "approach1": 6,
+          "approach2": 6,
+          "approach3": 5,
+          "approach4": 4,
+          "approach5": 6
+        }
+      },
+      "hardMode": {
+        "rangeMin": 6,
+        "rangeMax": 13,
+        "day1": {
+          "approach1": 10,
+          "approach2": 8,
+          "approach3": 8,
+          "approach4": 6,
+          "approach5": 8
+        },
+        "day2": {
+          "approach1": 11,
+          "approach2": 9,
+          "approach3": 8,
+          "approach4": 6,
+          "approach5": 9
+        },
+        "day3": {
+          "approach1": 13,
+          "approach2": 11,
+          "approach3": 10,
+          "approach4": 8,
+          "approach5": 11
+        }
+      }
+    },
+    "week2": {
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "easyMode": {
+        "rangeMin": 0,
+        "rangeMax": 0,
+        "day1": {
+          "approach1": 6,
+          "approach2": 5,
+          "approach3": 5,
+          "approach4": 4,
+          "approach5": 5
+        },
+        "day2": {
+          "approach1": 6,
+          "approach2": 6,
+          "approach3": 5,
+          "approach4": 5,
+          "approach5": 6
+        },
+        "day3": {
+          "approach1": 7,
+          "approach2": 6,
+          "approach3": 5,
+          "approach4": 5,
+          "approach5": 6
+        }
+      },
+      "hardMode": {
+        "rangeMin": 0,
+        "rangeMax": 0,
+        "day1": {
+          "approach1": 12,
+          "approach2": 10,
+          "approach3": 8,
+          "approach4": 8,
+          "approach5": 10
+        },
+        "day2": {
+          "approach1": 13,
+          "approach2": 11,
+          "approach3": 10,
+          "approach4": 8,
+          "approach5": 11
+        },
+        "day3": {
+          "approach1": 14,
+          "approach2": 12,
+          "approach3": 10,
+          "approach4": 9,
+          "approach5": 12
+        }
+      }
+    },
+    "week3": {
+      "range": {
+        "min": 14,
+        "max": 28
+      },
+      "easyMode": {
+        "rangeMin": 14,
+        "rangeMax": 20,
+        "day1": {
+          "approach1": 14,
+          "approach2": 13,
+          "approach3": 12,
+          "approach4": 10,
+          "approach5": 13
+        },
+        "day2": {
+          "approach1": 16,
+          "approach2": 14,
+          "approach3": 14,
+          "approach4": 12,
+          "approach5": 14
+        },
+        "day3": {
+          "approach1": 18,
+          "approach2": 18,
+          "approach3": 15,
+          "approach4": 16,
+          "approach5": 14
+        }
+      },
+      "hardMode": {
+        "rangeMin": 21,
+        "rangeMax": 28,
+        "day1": {
+          "approach1": 20,
+          "approach2": 18,
+          "approach3": 16,
+          "approach4": 14,
+          "approach5": 18
+        },
+        "day2": {
+          "approach1": 24,
+          "approach2": 22,
+          "approach3": 20,
+          "approach4": 18,
+          "approach5": 22
+        },
+        "day3": {
+          "approach1": 26,
+          "approach2": 24,
+          "approach3": 20,
+          "approach4": 22,
+          "approach5": 22
+        }
+      }
+    }
+  }
+]
