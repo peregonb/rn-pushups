@@ -1,0 +1,62 @@
+[
+  {
+    "min": 0,
+    "max": 6,
+    "week": 1,
+    "difficulty": false
+  },
+  {
+    "min": 7,
+    "max": 13,
+    "week": 1,
+    "difficulty": true
+  },
+  {
+    "min": 14,
+    "max": 20,
+    "week": 3,
+    "difficulty": false
+  },
+  {
+    "min": 21,
+    "max": 28,
+    "week": 3,
+    "difficulty": true
+  },
+  {
+    "min": 29,
+    "max": 36,
+    "week": 5,
+    "difficulty": false
+  },
+  {
+    "min": 37,
+    "max": 45,
+    "week": 5,
+    "difficulty": true
+  },
+  {
+    "min": 46,
+    "max": 55,
+    "week": 7,
+    "difficulty": false
+  },
+  {
+    "min": 56,
+    "max": 65,
+    "week": 7,
+    "difficulty": true
+  },
+  {
+    "min": 66,
+    "max": 80,
+    "week": 9,
+    "difficulty": false
+  },
+  {
+    "min": 81,
+    "max": 99,
+    "week": 9,
+    "difficulty": true
+  }
+]

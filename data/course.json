@@ -1,172 +1,508 @@
 [
   {
     "week1": {
-      "range": {
-        "min": 0,
-        "max": 13
-      },
-      "easyMode": {
-        "rangeMin": 0,
-        "rangeMax": 6,
-        "day1": {
+      "easy": [
+        {
           "approach1": 3,
           "approach2": 3,
           "approach3": 2,
           "approach4": 2,
           "approach5": 3
         },
-        "day2": {
+        {
           "approach1": 4,
           "approach2": 4,
           "approach3": 3,
           "approach4": 3,
           "approach5": 4
         },
-        "day3": {
+        {
           "approach1": 6,
           "approach2": 6,
           "approach3": 5,
           "approach4": 4,
           "approach5": 6
         }
-      },
-      "hardMode": {
-        "rangeMin": 6,
-        "rangeMax": 13,
-        "day1": {
+      ],
+      "hard": [
+        {
           "approach1": 10,
           "approach2": 8,
           "approach3": 8,
           "approach4": 6,
           "approach5": 8
         },
-        "day2": {
+        {
           "approach1": 11,
           "approach2": 9,
           "approach3": 8,
           "approach4": 6,
           "approach5": 9
         },
-        "day3": {
+        {
           "approach1": 13,
           "approach2": 11,
           "approach3": 10,
           "approach4": 8,
           "approach5": 11
         }
-      }
+      ]
     },
     "week2": {
-      "range": {
-        "min": 0,
-        "max": 0
-      },
-      "easyMode": {
-        "rangeMin": 0,
-        "rangeMax": 0,
-        "day1": {
+      "easy": [
+        {
           "approach1": 6,
           "approach2": 5,
           "approach3": 5,
           "approach4": 4,
           "approach5": 5
         },
-        "day2": {
+        {
           "approach1": 6,
           "approach2": 6,
           "approach3": 5,
           "approach4": 5,
           "approach5": 6
         },
-        "day3": {
+        {
           "approach1": 7,
           "approach2": 6,
           "approach3": 5,
           "approach4": 5,
           "approach5": 6
         }
-      },
-      "hardMode": {
-        "rangeMin": 0,
-        "rangeMax": 0,
-        "day1": {
+      ],
+      "hard": [
+        {
           "approach1": 12,
           "approach2": 10,
           "approach3": 8,
           "approach4": 8,
           "approach5": 10
         },
-        "day2": {
+        {
           "approach1": 13,
           "approach2": 11,
           "approach3": 10,
           "approach4": 8,
           "approach5": 11
         },
-        "day3": {
+        {
           "approach1": 14,
           "approach2": 12,
           "approach3": 10,
           "approach4": 9,
           "approach5": 12
         }
-      }
+      ]
     },
     "week3": {
-      "range": {
-        "min": 14,
-        "max": 28
-      },
-      "easyMode": {
-        "rangeMin": 14,
-        "rangeMax": 20,
-        "day1": {
+      "easy": [
+        {
           "approach1": 14,
           "approach2": 13,
           "approach3": 12,
           "approach4": 10,
           "approach5": 13
         },
-        "day2": {
+        {
           "approach1": 16,
           "approach2": 14,
           "approach3": 14,
           "approach4": 12,
           "approach5": 14
         },
-        "day3": {
+        {
           "approach1": 18,
           "approach2": 18,
           "approach3": 15,
           "approach4": 16,
           "approach5": 14
         }
-      },
-      "hardMode": {
-        "rangeMin": 21,
-        "rangeMax": 28,
-        "day1": {
+      ],
+      "hard": [
+        {
           "approach1": 20,
           "approach2": 18,
           "approach3": 16,
           "approach4": 14,
           "approach5": 18
         },
-        "day2": {
+        {
           "approach1": 24,
           "approach2": 22,
           "approach3": 20,
           "approach4": 18,
           "approach5": 22
         },
-        "day3": {
+        {
           "approach1": 26,
           "approach2": 24,
           "approach3": 20,
           "approach4": 22,
           "approach5": 22
         }
-      }
+      ]
+    },
+    "week4": {
+      "easy": [
+        {
+          "approach1": 16,
+          "approach2": 14,
+          "approach3": 14,
+          "approach4": 12,
+          "approach5": 14
+        },
+        {
+          "approach1": 18,
+          "approach2": 18,
+          "approach3": 16,
+          "approach4": 14,
+          "approach5": 18
+        },
+        {
+          "approach1": 20,
+          "approach2": 18,
+          "approach3": 16,
+          "approach4": 16,
+          "approach5": 18
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 22,
+          "approach2": 20,
+          "approach3": 18,
+          "approach4": 16,
+          "approach5": 20
+        },
+        {
+          "approach1": 26,
+          "approach2": 24,
+          "approach3": 24,
+          "approach4": 22,
+          "approach5": 24
+        },
+        {
+          "approach1": 28,
+          "approach2": 26,
+          "approach3": 24,
+          "approach4": 24,
+          "approach5": 26
+        }
+      ]
+    },
+    "week5": {
+      "easy": [
+        {
+          "approach1": 28,
+          "approach2": 26,
+          "approach3": 24,
+          "approach4": 22,
+          "approach5": 26
+        },
+        {
+          "approach1": 30,
+          "approach2": 28,
+          "approach3": 26,
+          "approach4": 24,
+          "approach5": 28
+        },
+        {
+          "approach1": 32,
+          "approach2": 30,
+          "approach3": 28,
+          "approach4": 26,
+          "approach5": 30
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 36,
+          "approach2": 33,
+          "approach3": 32,
+          "approach4": 30,
+          "approach5": 33
+        },
+        {
+          "approach1": 38,
+          "approach2": 35,
+          "approach3": 32,
+          "approach4": 30,
+          "approach5": 35
+        },
+        {
+          "approach1": 40,
+          "approach2": 38,
+          "approach3": 35,
+          "approach4": 33,
+          "approach5": 38
+        }
+      ]
+    },
+    "week6": {
+      "easy": [
+        {
+          "approach1": 32,
+          "approach2": 30,
+          "approach3": 30,
+          "approach4": 26,
+          "approach5": 30
+        },
+        {
+          "approach1": 34,
+          "approach2": 33,
+          "approach3": 30,
+          "approach4": 28,
+          "approach5": 33
+        },
+        {
+          "approach1": 36,
+          "approach2": 34,
+          "approach3": 32,
+          "approach4": 28,
+          "approach5": 34
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 40,
+          "approach2": 38,
+          "approach3": 36,
+          "approach4": 34,
+          "approach5": 38
+        },
+        {
+          "approach1": 42,
+          "approach2": 40,
+          "approach3": 38,
+          "approach4": 35,
+          "approach5": 40
+        },
+        {
+          "approach1": 45,
+          "approach2": 42,
+          "approach3": 40,
+          "approach4": 36,
+          "approach5": 42
+        }
+      ]
+    },
+    "week7": {
+      "easy": [
+        {
+          "approach1": 46,
+          "approach2": 42,
+          "approach3": 24,
+          "approach4": 24,
+          "approach5": 20,
+          "approach6": 20
+        },
+        {
+          "approach1": 48,
+          "approach2": 44,
+          "approach3": 25,
+          "approach4": 25,
+          "approach5": 22,
+          "approach6": 22
+        },
+        {
+          "approach1": 50,
+          "approach2": 45,
+          "approach3": 26,
+          "approach4": 26,
+          "approach5": 22,
+          "approach6": 22
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 56,
+          "approach2": 48,
+          "approach3": 26,
+          "approach4": 26,
+          "approach5": 22,
+          "approach6": 22
+        },
+        {
+          "approach1": 58,
+          "approach2": 50,
+          "approach3": 28,
+          "approach4": 28,
+          "approach5": 24,
+          "approach6": 24
+        },
+        {
+          "approach1": 60,
+          "approach2": 54,
+          "approach3": 30,
+          "approach4": 30,
+          "approach5": 25,
+          "approach6": 25
+        }
+      ]
+    },
+    "week8": {
+      "easy": [
+        {
+          "approach1": 50,
+          "approach2": 46,
+          "approach3": 26,
+          "approach4": 26,
+          "approach5": 24,
+          "approach6": 24
+        },
+        {
+          "approach1": 52,
+          "approach2": 48,
+          "approach3": 26,
+          "approach4": 26,
+          "approach5": 24,
+          "approach6": 24
+        },
+        {
+          "approach1": 55,
+          "approach2": 50,
+          "approach3": 28,
+          "approach4": 28,
+          "approach5": 24,
+          "approach6": 24
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 60,
+          "approach2": 54,
+          "approach3": 30,
+          "approach4": 30,
+          "approach5": 27,
+          "approach6": 27
+        },
+        {
+          "approach1": 62,
+          "approach2": 56,
+          "approach3": 30,
+          "approach4": 30,
+          "approach5": 27,
+          "approach6": 27
+        },
+        {
+          "approach1": 62,
+          "approach2": 58,
+          "approach3": 32,
+          "approach4": 32,
+          "approach5": 28,
+          "approach6": 28
+        }
+      ]
+    },
+    "week9": {
+      "easy": [
+        {
+          "approach1": 66,
+          "approach2": 58,
+          "approach3": 35,
+          "approach4": 35,
+          "approach5": 30,
+          "approach6": 30
+        },
+        {
+          "approach1": 68,
+          "approach2": 60,
+          "approach3": 36,
+          "approach4": 36,
+          "approach5": 32,
+          "approach6": 32
+        },
+        {
+          "approach1": 71,
+          "approach2": 64,
+          "approach3": 36,
+          "approach4": 36,
+          "approach5": 33,
+          "approach6": 33
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 81,
+          "approach2": 70,
+          "approach3": 40,
+          "approach4": 40,
+          "approach5": 34,
+          "approach6": 34
+        },
+        {
+          "approach1": 85,
+          "approach2": 74,
+          "approach3": 42,
+          "approach4": 42,
+          "approach5": 35,
+          "approach6": 35
+        },
+        {
+          "approach1": 88,
+          "approach2": 78,
+          "approach3": 44,
+          "approach4": 44,
+          "approach5": 38,
+          "approach6": 38
+        }
+      ]
+    },
+    "week10": {
+      "easy": [
+        {
+          "approach1": 74,
+          "approach2": 66,
+          "approach3": 38,
+          "approach4": 38,
+          "approach5": 32,
+          "approach6": 32
+        },
+        {
+          "approach1": 78,
+          "approach2": 68,
+          "approach3": 38,
+          "approach4": 38,
+          "approach5": 34,
+          "approach6": 34
+        },
+        {
+          "approach1": 80,
+          "approach2": 70,
+          "approach3": 40,
+          "approach4": 40,
+          "approach5": 34,
+          "approach6": 34
+        }
+      ],
+      "hard": [
+        {
+          "approach1": 92,
+          "approach2": 80,
+          "approach3": 45,
+          "approach4": 45,
+          "approach5": 40,
+          "approach6": 40
+        },
+        {
+          "approach1": 96,
+          "approach2": 84,
+          "approach3": 46,
+          "approach4": 46,
+          "approach5": 42,
+          "approach6": 42
+        },
+        {
+          "approach1": 100,
+          "approach2": 88,
+          "approach3": 48,
+          "approach4": 48,
+          "approach5": 42,
+          "approach6": 42
+        }
+      ]
     }
   }
 ]

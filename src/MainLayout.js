@@ -40,14 +40,6 @@ export const MainLayout = () => {
                 >
                     {renderContent('Koubei Tab')}
                 </TabBar.Item>
-                {/*<TabBar.Item*/}
-                {/*    icon={<SettingOutlined/>}*/}
-                {/*    title="Friend"*/}
-                {/*    selected={selectedTab === 'greenTab'}*/}
-                {/*    onPress={() => onChangeTab('greenTab')}*/}
-                {/*>*/}
-                {/*    {renderContent('Friend Tab')}*/}
-                {/*</TabBar.Item>*/}
                 <TabBar.Item
                     icon={<Icon name="user"/>}
                     title="My"
